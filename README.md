@@ -8,23 +8,28 @@ Fully responsive design for mobile, and desktop devices.
 Smooth navigation and interactive user interface.
 Showcases projects, skills, contact information, and more.
 
-Features
+FEATURES:
 Home Section: Introduction and brief bio.
 About Section: Detailed information about me and my background.
+
 Projects Section: Displays key projects with links and descriptions.
+
 Skills Section: Highlights technical skills and tools used.
+
 Contact Section: Contact form and social media links.
+
 Responsive Design: Works on all screen sizes.
 
-Technologies Used
+
+Technologies Used:
 HTML5 – Semantic markup for structure.
 CSS3 – Styling, animations, and layout design.
 JavaScript – Interactivity and dynamic content.
 Git & GitHub – Version control and code hosting.
- https://github.com/username/portfolio-website.git.
+ https://github.com/Frblessing411/portfolio-website.git.
 
 
-portfolio-website/
+PORTFOLIO -WEBSITE 
 │
 ├── index.html        # Main HTML page
 ├── css/
@@ -37,6 +42,5 @@ portfolio-website/
 CONTACT ME 
 I’m always open to collaboration, freelance work, or just saying hi 👋
 Email: Frblessing411@gmail.com
-LinkedIn: linkedin.com/in/yourprofile⁠�
-GitHub: github.com/username⁠�
+GitHub: github.com/Frblessing411
 License
