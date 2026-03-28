@@ -1,0 +1,131 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chigozie Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: #fff;
+    }header {
+  display: flex;#42445A
+  align-items: center;
+  padding: 20px;
+  background: rgba(0,0,0,0.5);
+}
+
+header img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.header-text h1 {
+  font-size: 28px;
+}
+
+.header-text p {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero h2 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  margin-bottom: 20px;
+  opacity: 0.8;
+}
+
+.btn {
+  background: #3b82f6;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.services {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 40px;
+}
+
+.card {
+  background: rgba(255,255,255,0.1);
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  backdrop-filter: blur(10px);
+}
+
+.about {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 40px;
+  gap: 20px;
+  align-items: center;
+}
+
+.about img {
+  width: 300px;
+  border-radius: 15px;
+}
+
+.about-text {
+  max-width: 500px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  opacity: 0.6;
+}
+
+  </style>
+</head>
+<body><header>
+  <img src="Chigozie.jpg" alt="My picture">
+  <div class="header-text">
+    <h1>Chigozie</h1>
+    <p>@Gozie233 • Web Developer & Designer</p>
+  </div>
+</header><section class="hero">
+  <h2>Welcome to My Portfolio</h2>
+  <p>Creative Solutions for the Digital World</p>
+  <a href="#" class="btn">View My Work</a>
+</section><section class="services">
+  <div class="card">
+    <h3>Web Design</h3>
+  </div>
+  <div class="card">
+    <h3>UI/UX Design</h3>
+  </div>
+  <div class="card">
+    <h3>Front-End Development</h3>
+  </div>
+</section><section class="about">
+  <img src="working.jpg" alt="Working">
+  <div class="about-text">
+    <h2>About Me</h2>
+    <p>Hi, I'm Chigozie. I create modern and responsive websites that bring ideas to life.</p>
+    <br>
+    <a href="#" class="btn">Learn More</a>
+  </div>
+</section><footer>
+  <p>© 2026 Chigozie Portfolio</p>
+</footer></body>
+</html>
